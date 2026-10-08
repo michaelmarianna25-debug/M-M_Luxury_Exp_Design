@@ -1,0 +1,14 @@
+Βάλε σε αυτόν τον φάκελο τις εικόνες του site, με ακριβώς αυτά τα ονόματα:
+
+logo.jpg
+founders.jpg
+arrival.jpg
+before.jpg
+after.jpg
+sunset1.jpg
+sunset2.jpg
+sunset3.jpg
+sunset4.jpg
+
+(Είναι οι ίδιες που υπάρχουν ήδη στο repo σου, στον φάκελο assets.)
+Το banner.jpg δεν χρειάζεται πια: το "Beyond the booking" είναι πλέον κανονικό κείμενο.
